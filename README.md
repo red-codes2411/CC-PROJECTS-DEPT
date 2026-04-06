@@ -75,5 +75,8 @@ This project sets up a cloud-based hub to store, sync, and distribute educationa
 
 ---
 
-If you want, I can also make this look more *resume/project submission level polished* or add architecture diagrams 👀
+DIAGRAM : 
+
+<img width="431" height="471" alt="Aws_cc_p1 drawio" src="https://github.com/user-attachments/assets/81bbee6d-afce-42ea-a4a5-b10f367a5563" />
+
 
