@@ -10,7 +10,7 @@ This project sets up a cloud-based hub to store, sync, and distribute educationa
 ### 1. File Storage
 
 * **Service:** Amazon S3
-* Created bucket `edubridge-hub-content-YOURNAME` (Mumbai)
+* Created bucket `edubridge-hub-content-Dhanyataa` (Mumbai)
 * Stores videos, PDFs, and lesson content
 
 ### 2. Database
